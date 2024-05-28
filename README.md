@@ -1,2 +1,2 @@
 # BSInside
-Python project on Tkinter for gaming
+Python project on Tkinter for gaming and joking
